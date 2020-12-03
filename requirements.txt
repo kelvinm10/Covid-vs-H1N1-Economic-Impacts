@@ -179,7 +179,6 @@ termcolor==1.1.0
 terminado==0.6
 testpath==0.3.1
 tornado==4.5.2
-tqdm @ file:///tmp/build/80754af9/tqdm_1596810128862/work
 traitlets==4.3.2
 traittypes==0.2.1
 typing==3.6.2
